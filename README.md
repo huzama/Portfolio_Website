@@ -1,5 +1,5 @@
 # Personal Website
-[Link](https://huzama.github.io/)
+[Link](https://www.huzama.com/)
 
 ## License
 
