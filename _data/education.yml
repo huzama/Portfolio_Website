@@ -1,0 +1,157 @@
+school:
+  - name: Korea Advanced Institute of Science and Technology (KAIST)
+    Degree: Doctor of Philosophy - PhD
+    Major: Artificial Intelligence 
+    Duration: Aug. 2022 - Now
+    icon: ../assets/img/kaist.png
+
+  - name: Korea Advanced Institute of Science and Technology (KAIST)
+    Degree: Master of Science - MS
+    Major: Artificial Intelligence
+    Duration: Aug. 2021 - Aug. 2022
+    icon: ../assets/img/kaist.png
+
+  - name: National University of Sciences & Technology (NUST)
+    Degree: Bachelor of Engineering - BE
+    Major: Computer Engineering
+    Duration: Sep. 2017 - Jul. 2021
+    icon: ../assets/img/nust.png
+
+certificates:
+   
+  - name:  Natural Language Processing Specialization
+    issuer: DeepLearning.AI · Coursera
+    date: Jan. 2023
+    credentialID: MEATDBBH93KG
+    link: https://coursera.org/verify/specialization/MEATDBBH93KG
+   
+  #- name: Natural Language Processing with Attention Models
+  #  issuer: DeepLearning.AI · Coursera
+  #  date: Jan. 2023
+  #  credentialID: HFM5U888KE5M
+  #  link: https://coursera.org/verify/HFM5U888KE5M
+  # 
+  #- name: Natural Language Processing with Sequence Models
+  #  issuer: DeepLearning.AI · Coursera
+  #  date: Jan. 2023
+  #  credentialID: SQZFXB8ENHMT
+  #  link: https://coursera.org/verify/SQZFXB8ENHMT
+  # 
+  #- name: Natural Language Processing with Probabilistic Models
+  #  issuer: DeepLearning.AI · Coursera
+  #  date: Jan. 2023
+  #  credentialID: RJRFGRC243FM
+  #  link: https://coursera.org/verify/RJRFGRC243FM
+  # 
+  #- name: Natural Language Processing with Classification and Vector Spaces
+  #  issuer: DeepLearning.AI · Coursera
+  #  date: Jan. 2023
+  #  credentialID: MC7EZHRUAVWH
+  #  link: https://coursera.org/verify/MC7EZHRUAVWH
+  # 
+  # 
+  - name:  Reinforcement Learning Specialization
+    issuer: University of Alberta · Coursera
+    date: Sep. 2022
+    credentialID: VG8KHAKBKQRF
+    link: https://coursera.org/verify/specialization/VG8KHAKBKQRF
+   
+  #- name: A Complete Reinforcement Learning System (Capstone)
+  #  issuer: University of Alberta · Coursera
+  #  date: Sep. 2022
+  #  credentialID: KWJTE7M3KVNJ
+  #  link: https://coursera.org/verify/KWJTE7M3KVNJ
+  # 
+  #- name: Prediction and Control with Function Approximation
+  #  issuer: University of Alberta · Coursera
+  #  date: Sep. 2022
+  #  credentialID: PLMMYAUHBB86
+  #  link: https://coursera.org/verify/PLMMYAUHBB86
+  # 
+  #- name: Sample-based Learning Methods
+  #  issuer: University of Alberta · Coursera
+  #  date: Sep. 2022
+  #  credentialID: NQ6ZQAYBAX3Y
+  #  link: https://coursera.org/verify/NQ6ZQAYBAX3Y
+  # 
+  #- name: Fundamentals of Reinforcement Learning
+  #  issuer: University of Alberta · Coursera
+  #  date: Aug. 2022
+  #  credentialID: NA5B9MWKC57H
+  #  link: https://coursera.org/verify/NA5B9MWKC57H
+  #
+  # 
+  - name:  Deep Learning Specialization
+    issuer: DeepLearning.AI · Coursera
+    date: Oct. 2021
+    credentialID: 6JBCQNVR6CZA
+    link: https://coursera.org/verify/specialization/6JBCQNVR6CZA
+   
+  #- name: Convolutional Neural Networks
+  #  issuer: DeepLearning.AI · Coursera
+  #  date: Oct. 2021
+  #  credentialID: QKRGRDDJFLDF
+  #  link: https://coursera.org/verify/QKRGRDDJFLDF
+  # 
+  #- name: Sequence Models
+  #  issuer: DeepLearning.AI · Coursera
+  #  date: Oct. 2021
+  #  credentialID: UY9R99X3CTVA
+  #  link: https://coursera.org/verify/UY9R99X3CTVA
+  # 
+  #- name: Improving Deep Neural Networks; Hyperparameter Tuning, Regularization and Optimization
+  #  issuer: DeepLearning.AI · Coursera
+  #  date: Oct. 2021
+  #  credentialID: UCFT6FCVKPTJ
+  #  link: https://coursera.org/verify/UCFT6FCVKPTJ
+  # 
+  #- name: Structuring Machine Learning Projects
+  #  issuer: DeepLearning.AI · Coursera
+  #  date: Oct. 2021
+  #  credentialID: LKVTRLQLKT3Q
+  #  link: https://coursera.org/verify/LKVTRLQLKT3Q
+  # 
+  #- name: Neural Networks and Deep Learning
+  #  issuer: DeepLearning.AI · Coursera
+  #  date: Sep. 2021
+  #  credentialID: VVABX938EN7F
+  #  link: https://coursera.org/verify/VVABX938EN7F
+
+   
+  - name:  Mathematics for Machine Learning Specialization
+    issuer: Imperial College London · Coursera
+    date: Oct. 2021
+    credentialID: NSV9GX6F7QQ8
+    link: https://coursera.org/verify/specialization/NSV9GX6F7QQ8
+   
+  #- name:  Mathematics for Machine Learning; PCA 
+  #  issuer: Imperial College London · Coursera
+  #  date: Oct. 2021
+  #  credentialID: VEYLAA6SFM2R
+  #  link: https://coursera.org/verify/3A4YEEDB37L8
+  #  
+  #- name:  Mathematics for Machine Learning; Multivariate Calculus 
+  #  issuer: Imperial College London · Coursera
+  #  date: Oct. 2021
+  #  credentialID: VEYLAA6SFM2R
+  #  link: https://coursera.org/verify/VEYLAA6SFM2R
+  #  
+  #- name:  Mathematics for Machine Learning; Linear Algebra 
+  #  issuer: Imperial College London · Coursera
+  #  date: Sep. 2021
+  #  credentialID: 3A4YEEDB37L8
+  #  link: https://coursera.org/verify/3A4YEEDB37L8#
+
+    
+  - name:  Registered Engineer 
+    issuer: Pakistan Engineering Council (PEC)
+    date: Sep. 2021
+    credentialID: 20916
+    link: https://verification.pec.org.pk/v/eV/sED/i.aspx?eid=31392F3230393136
+    
+  #- name:  Microsoft Office Specialist; Word 2013
+  #  issuer: Microsoft
+  #  date: Dec. 2017
+  #  credentialID: Credentials
+  #  link: https://www.credly.com/badges/7f642aa4-9560-4fd9-b1c8-d2b8c3960464/public_url
+

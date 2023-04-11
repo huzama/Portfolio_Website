@@ -1,0 +1,14 @@
+<div>
+    <div class="certificates_card">
+        <strong> {{ include.certificates.name }} </strong> 
+        <br>
+
+        {{ include.certificates.issuer }}
+        <br>
+        
+        <p style="color: grey; display:inline;"> {{ include.certificates.date }} </p>
+        <br>
+        Credential ID: <a href="{{include.certificates.link}}">{{ include.certificates.credentialID }} </a>
+    </div>
+    <br>
+</div>

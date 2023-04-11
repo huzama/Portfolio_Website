@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - huzama
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - huzama/FunExperiments
+  - huzama/CXR_ReportGenerator
+  - huzama/FaultPredictorForMES
