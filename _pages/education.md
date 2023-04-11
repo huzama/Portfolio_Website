@@ -1,6 +1,6 @@
 ---
 layout: page
-title: education
+title: Education
 nav: true
 permalink: /education/
 display_categories: [Degrees, Certificates]

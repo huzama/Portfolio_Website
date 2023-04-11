@@ -1,6 +1,6 @@
 ---
 layout: page
-title: experience
+title: Experience
 permalink: /experience/
 display_categories: [Work, Volunteer]
 nav: true

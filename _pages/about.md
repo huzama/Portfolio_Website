@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href=https://www.kaist.ac.kr/en/>KAIST</a> <a href=https://gsai.kaist.ac.kr/>Kim Jaechul Graduate School of AI </a>
 

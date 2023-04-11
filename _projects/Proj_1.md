@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Commonsense Validation and Explanation
+title: Pursuit of Truth in Journalism
 description:  
 img: 
 importance: 0
-category: Past Projects
-permalink: /projects/CVE
+category: On Going
+permalink: /projects/journalismAI
+modal: true
 ---
