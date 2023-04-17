@@ -7,5 +7,5 @@ importance: 4
 _date: 2019/09/30 - 2020/01/31
 category: Past Projects
 permalink: 
-modal: true
+github: https://github.com/huzama/Networks_Project
 ---

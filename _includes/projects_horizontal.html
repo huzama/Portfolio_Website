@@ -1,9 +1,11 @@
 <div class="card-item col">
   {%- if project.redirect -%}
   <a href="{{ project.redirect }}">
-  {%- else -%}
-  <a href="{{ project.url | relative_url }}">
-  {%- endif -%}
+    {%- elsif project.permalink -%}
+    <a href="{{ project.url | relative_url }}">
+      {%- else -%}
+      <div>
+      {%- endif %}
     <div class="card hoverable">
       <div class="row g-0">
         {%- if project.img -%}
@@ -37,5 +39,9 @@
         </div>
       </div>
     </div>
-  </a>
+    {%- if project.permalink -%}
+      </a>
+    {%- else -%}
+      </div>
+    {%- endif %}
 </div>

@@ -7,5 +7,5 @@ importance: 12
 _date: 2020/10/19 - 2021/07/09
 category: Past Projects
 permalink: 
-modal: true
+github: https://github.com/huzama/FaultPredictorForMES
 ---

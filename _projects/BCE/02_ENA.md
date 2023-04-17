@@ -6,6 +6,5 @@ img:
 importance: 0
 _date: 2018/02/05 - 2018/06/08
 category: Past Projects
-permalink: 
 modal: true
 ---
