@@ -7,7 +7,7 @@ subtitle: <a href=https://www.kaist.ac.kr/en/>KAIST</a> <a href=https://gsai.kai
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <small> Address: Kim Jaechul AI Graduate School, Building 9,
     85 Hoegi-ro, Cheongnyangri-dong, Dongdaemun-gu, Seoul </small>
@@ -19,9 +19,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <div class='info'>
- <h3 title='Hello in Arabic' style='font-family: adobe arabic'> السَّلَامُ عَلَيْكُمْ </h3>
-<strong style='color: #696969; display: inline'> Hmm... Anyways </strong>
-<p> I'm a PhD scholar of Artificial Intelligence at the Korea Advance Institute of Science and Technology (KAIST). I am working in <a href="https://xfact.net/"> xfact</a> lab where I am being guided by two esteemed professors -  <a href='https://sites.google.com/a/kaist.edu/song-chong'>Song Chong</a> and <a href='https://jamesthorne.com/'> James Thorne</a>. My research interest is to help AI take over the world, specifically
+<h3 title='Hello in Arabic' style='font-family: adobe arabic'> السَّلَامُ عَلَيْكُمْ </h3>
+<p> I am a PhD scholar in <u>Kim Jaechul Graduate School of AI</u> at <u>Korea Advanced Institute of Science and Technology</u>. I am working in <a href="https://xfact.net/"> xfact</a> lab where I am being guided by two esteemed professors -  <a href='https://sites.google.com/a/kaist.edu/song-chong'>Song Chong</a> and <a href='https://jamesthorne.com/'> James Thorne</a>. My research interest is to help AI take over the world, specifically
 <ul>
   <li> Creativity, Imagination, and Reasoning abilities of LLMs </li>
   <li> Continual Learning and Adaptivity of  LLMs</li>
