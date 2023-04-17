@@ -1,5 +1,5 @@
 # Personal Website
-[Link](https://www.huzama.com/)
+[Link](https://huzama.com/)
 
 ## License
 
