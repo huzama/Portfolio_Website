@@ -18,6 +18,15 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>">
     {% elsif site.icon != blank %}
     <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url}}"/>
+    {% elsif site.favicon %}
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/Favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/Favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/Favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/img/Favicon/site.webmanifest">
+    <link rel="shortcut icon" href="/assets/img/Favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/assets/img/Favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
     {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
