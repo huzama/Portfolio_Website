@@ -10,11 +10,12 @@ permalink: /projects/FunProjects
 github: https://github.com/huzama/FunExperiments
 ---
 
-Following are the projects I have experiments with
+Following are the projects I have experimented with
 <ul>
-    <li> Add Later </li>
-    <li> Add Later </li>
-    <li> Add Later </li>
-    <li> Add Later </li>
-    <li> Add Later </li>
+    <li> CUDA Programming for Parallel Computation </li>
+    <li> AVX Programming for Parallel Computation </li>
+    <li> Web Development using Angular </li>
+    <li> Windows Service development </li>
+    <li> OpenCL Development </li>
+    <li> AI Experiments </li>
 </ul>
