@@ -872,13 +872,15 @@ pre {
   }
 }
 .education_card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 var(--global-card-shadow-color);
+  background-color: var(--global-card-bg-color);
   display: flex;
   align-items: center;
   
 }
 .certificates_card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 var(--global-card-shadow-color);
+  background-color: var(--global-card-bg-color);
   
 }
 
@@ -895,12 +897,14 @@ pre {
   }
 }
 .experience_card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 var(--global-card-shadow-color);
+  background-color: var(--global-card-bg-color);
   display: flex;
   align-items: center;
   
 }
 .volunteer_card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 var(--global-card-shadow-color);
+  background-color: var(--global-card-bg-color);
   
 }
