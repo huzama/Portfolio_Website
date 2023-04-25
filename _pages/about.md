@@ -26,7 +26,7 @@ social: true  # includes social icons at the bottom of the page
 </ul>
 In addition, I have previous experience working in Reinforcement Learning in the area of Vision-Language Navigation </p>
 <br><br>
-<h2> misc. </h2>
+<h2> Misc. </h2>
 <p> When I'm not working, you might find me doing calisthenics to stay fit, exploring nature through hiking, or indulging in the soulful sounds of the violin. I'm also passionate about exploring the mysteries of the universe with topics like Quantum Mechanics, Rocket Science, and almost any other physical phenomena
 <br><br>
 Thank you for visiting my website! <br>
