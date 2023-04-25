@@ -5,4 +5,4 @@ inline: true
 permalink: /news/korea
 ---
 
-Moved to Korea and Joined <a href='https://sites.google.com/a/kaist.edu/song-chong'> Data Science and Network Laboratory</a>
+Moved to Korea and joined <a href='https://sites.google.com/a/kaist.edu/song-chong'> Data Science and Network Laboratory</a>

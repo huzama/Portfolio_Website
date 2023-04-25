@@ -5,4 +5,4 @@ inline: true
 permalink: /news/phd
 ---
 
-Starting my Ph.D. at <a href='https://www.kaist.ac.kr/en/'>KAIST</a> <a href='https://gsai.kaist.ac.kr/'>Kim Jaechul Graduate School of AI </a>
+Starting Ph.D. program at <a href='https://www.kaist.ac.kr/en/'>KAIST</a> <a href='https://gsai.kaist.ac.kr/'>Kim Jaechul Graduate School of AI </a>

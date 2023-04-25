@@ -5,4 +5,4 @@ inline: true
 permalink: /news/xfact
 ---
 
-Joining <a href='https://xfact.net/'> xfact Lab</a> to focus my research on Large Language Models
+Joined <a href='https://xfact.net/'> xfact Lab</a> to focus my research on Large Language Models

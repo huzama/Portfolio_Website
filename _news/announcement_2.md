@@ -5,4 +5,4 @@ inline: true
 permalink: /news/masters
 ---
 
-Starting Masters at <a href='https://www.kaist.ac.kr/en/'>KAIST</a> <a href='https://gsai.kaist.ac.kr/'>Kim Jaechul Graduate School of AI </a>
+Starting Masters program at <a href='https://www.kaist.ac.kr/en/'>KAIST</a> <a href='https://gsai.kaist.ac.kr/'>Kim Jaechul Graduate School of AI </a>
