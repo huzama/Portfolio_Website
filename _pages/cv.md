@@ -1,6 +1,6 @@
 ---
-layout: cv
-permalink: /assets/cv/huzama.pdf
+layout: page
+permalink: /assets/pdf/huzama.pdf
 title: CV
 nav: true
 nav_order: 3

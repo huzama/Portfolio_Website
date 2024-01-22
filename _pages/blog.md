@@ -1,7 +1,8 @@
 ---
 layout: default
 title: blog
-nav: false
+permalink: /blog/
+nav: true
 pagination:
   enabled: true
   collection: posts
